@@ -1,5 +1,5 @@
 function generatePassword(){
-  //TODO: your code goes here
+  //: your code goes here
   function randomGen() {
      const Numbers = ['1', '2', '3', '4', '5', '6', '7', '8', '9', '0']
      const lowerCase = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z']
@@ -15,19 +15,24 @@ function generatePassword(){
             if (askForNumbers == true ) {
               piggyBank.push(...Numbers)
             }
+
             var askForLowerCase = confirm('Would you like to add lowercase?')
             if (askForLowerCase == true ) {
               piggyBank.push(...lowerCase)
             }
+
             var askForUperCase = confirm('Would you like to add uppercase letters?')
             if (askForUperCase == true ) {
               piggyBank.push(...upperCase)
             }
+
             var askForSpecial = confirm("Would you like to add special characters added?")
             if (askForSpecial == true ) {
               piggyBank.push(...specials)
             }
+
           }
+          
     math.floor(math.random()*piggyBank.length);
 
   return "password"
