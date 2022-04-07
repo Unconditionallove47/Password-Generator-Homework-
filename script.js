@@ -32,18 +32,15 @@ function generatePassword(){
             }
 
           }
-          for (let index = 0; index < array.length; index++) {
-            const element = array[index];
-            
-          }
+        
           for( let i = 0; i < lengthOfPassword; i++) {
             password += piggyBank[Math.floor(Math.random() * piggyBank.length)]
             }
 
-  return password = "";
-
-}
-
+            return password;
+            
+          }
+          
 
 // Assignment Code, DO NOT EDIT ANTHING  BELOW THIS LINE
 var generateBtn = document.querySelector("#generate");
