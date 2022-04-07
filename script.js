@@ -1,13 +1,13 @@
 function generatePassword(){
   //: your code goes here
-  function randomGen() {
      const Numbers = ['1', '2', '3', '4', '5', '6', '7', '8', '9', '0']
      const lowerCase = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z']
      const upperCase = ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W','X', 'Y', 'Z']
      const specials = [' ', '!', '"', '#', '$', '&', '%', "'", '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '}', '|', '~']
      const piggyBank = []
+     var password = ""
      var lengthOfPassword =Number(prompt("pick length 8-128"))
-     if (length<8 || length>128) {
+     if (lengthOfPassword<8 || lengthOfPassword>128) {
       alert("please only choose a number 8-128")
       generatePassword()
      } else {
@@ -32,12 +32,16 @@ function generatePassword(){
             }
 
           }
-          
-    math.floor(math.random()*piggyBank.length);
+          for (let index = 0; index < array.length; index++) {
+            const element = array[index];
+            
+          }
+          for( let i = 0; i < lengthOfPassword; i++) {
+            password += piggyBank[Math.floor(Math.random() * piggyBank.length)]
+            }
 
-  return "password"
+  return password = "";
 
-  }
 }
 
 
