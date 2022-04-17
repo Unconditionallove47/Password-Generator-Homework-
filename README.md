@@ -6,3 +6,8 @@
 **Theyre then given a password lining up correctly with the limitations they picked previously.
 **pressing the button a second time should regenerate a password with the same given specifications.
 **refreshing the page will reprompt the user to pick more options again before generating another password.
+
+
+Deplayed Page URL:https://unconditionallove47.github.io/Password-Generator-Homework-/
+
+Screenshot:![image](https://user-images.githubusercontent.com/75865873/163735643-b05088dc-fe0f-4931-a313-28f989e367b1.png)
