@@ -12,8 +12,5 @@ Deplayed Page URL:https://unconditionallove47.github.io/Password-Generator-Homew
 
 Screenshot:![image](https://user-images.githubusercontent.com/75865873/163735643-b05088dc-fe0f-4931-a313-28f989e367b1.png)
 
+![image](https://user-images.githubusercontent.com/75865873/163735667-7a65d5b7-3f07-41a1-b50d-91b8c2b92ef5.png)
 
-![image](https://user-images.githubusercontent.com/75865873/163735652-9756b544-f447-4f04-a549-77acf3e5a0e6.png)
-
-
-![image](https://user-images.githubusercontent.com/75865873/163735658-d7482758-13ef-438e-be6f-d8e8b42d704e.png)
