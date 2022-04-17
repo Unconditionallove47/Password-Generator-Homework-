@@ -8,9 +8,12 @@
 **refreshing the page will reprompt the user to pick more options again before generating another password.
 
 
+
+
 Deplayed Page URL:https://unconditionallove47.github.io/Password-Generator-Homework-/
 
 Screenshot:![image](https://user-images.githubusercontent.com/75865873/163735643-b05088dc-fe0f-4931-a313-28f989e367b1.png)
 
-![image](https://user-images.githubusercontent.com/75865873/163735667-7a65d5b7-3f07-41a1-b50d-91b8c2b92ef5.png)
+![image](https://user-images.githubusercontent.com/75865873/163735684-0c690f9c-bfec-4b81-814f-c4f1e76406b2.png)
 
+![image](https://user-images.githubusercontent.com/75865873/163735700-5c70b1e2-22bb-4eec-abb6-60128593d337.png)
